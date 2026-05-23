@@ -1,5 +1,5 @@
 # 💫 About Me:
-HI , I am a curious and passionate coder who loves <br>to create crazy stuff and  bring ideas into real wor<br><br>Fun-fact: ☕ My code runs on caffeine and late-night curiosity.
+HI , I am a curious and passionate coder who loves <br>to create crazy stuff and  bring ideas into real world<br><br>Fun-fact: ☕ My code runs on caffeine and late-night curiosity.
 
 
 ## 🌐 Socials:
