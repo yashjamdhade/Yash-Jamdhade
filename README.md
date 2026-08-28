@@ -120,7 +120,7 @@ My goal is to combine AI capabilities with modern software engineering practices
 
 ---
 
-# AI / ML Expertise
+/* # AI / ML Expertise
 
 <div align="center">
 
@@ -136,7 +136,7 @@ My goal is to combine AI capabilities with modern software engineering practices
 | Cloud for AI          | Intermediate | AWS Services for Scalable Deployments                           |
 
 </div>
-
+*/
 ---
 
 # Featured Projects
