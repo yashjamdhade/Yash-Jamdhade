@@ -158,7 +158,7 @@ A production-grade AI assistant designed to automate user interactions, perform 
 | Security    | JWT Authentication & Role-Based Access        |
 | Impact      | Improved User Productivity Through Automation |
 | Repository  | PROJECT_REPOSITORY_URL                        |
--->
+
 ### Engineering Highlights
 
 * Implemented modular architecture for maintainability.
@@ -330,3 +330,4 @@ Focused on applying machine learning techniques to solve real-world problems whi
 `MLOps`
 
 ---
+-->
