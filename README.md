@@ -120,7 +120,7 @@ My goal is to combine AI capabilities with modern software engineering practices
 
 ---
 
-# AI / ML Expertise
+<!--# AI / ML Expertise
 
 <div align="center">
 
@@ -158,7 +158,7 @@ A production-grade AI assistant designed to automate user interactions, perform 
 | Security    | JWT Authentication & Role-Based Access        |
 | Impact      | Improved User Productivity Through Automation |
 | Repository  | PROJECT_REPOSITORY_URL                        |
-
+-->
 ### Engineering Highlights
 
 * Implemented modular architecture for maintainability.
